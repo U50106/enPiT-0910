@@ -1,3 +1,10 @@
+## こんにちは　僕の名前は教えません。
+
+今日は合宿2日目という事で、まだまだ序盤ですね。
+頑張っていきましょう！！
+
+I'm tired.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/U50106/enPiT-0910/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
